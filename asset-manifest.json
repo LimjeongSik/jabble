@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e52aa4e.css",
-    "main.js": "/static/js/main.1805a284.js",
+    "main.css": "/static/css/main.b3193c3a.css",
+    "main.js": "/static/js/main.befdbf28.js",
     "static/media/inspiration__02.png": "/static/media/inspiration__02.34691e88782b5bc8fabb.png",
     "static/media/banner__main.png": "/static/media/banner__main.ed011db58baa34fa0ce8.png",
     "static/media/inspiration__01.png": "/static/media/inspiration__01.cbe3a88e5335fab95913.png",
@@ -10,18 +10,18 @@
     "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.73b7fd8d064d9bc6dcdd.ttf",
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.68c8d686f4b0d91b92f1.ttf",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.7c8ccfe4b8a1b8ea2327.ttf",
+    "static/media/artists__03.png": "/static/media/artists__03.add0bd5e479fdba9c44f.png",
     "static/media/inspiration__03.png": "/static/media/inspiration__03.28fac665010b4c8ad78c.png",
-    "static/media/artists__03.png": "/static/media/artists__03.9cbdf4e5452bfdda0117.png",
     "static/media/artists__01.png": "/static/media/artists__01.4b11bbaa25cb3d8aa462.png",
     "static/media/artists__04.png": "/static/media/artists__04.2006bbc2863683d7b3e3.png",
     "static/media/artists__05.png": "/static/media/artists__05.2ec7604332ac27a8fcaa.png",
     "static/media/artists__02.png": "/static/media/artists__02.298fa3c8c8d7d6b1cb81.png",
     "index.html": "/index.html",
-    "main.6e52aa4e.css.map": "/static/css/main.6e52aa4e.css.map",
-    "main.1805a284.js.map": "/static/js/main.1805a284.js.map"
+    "main.b3193c3a.css.map": "/static/css/main.b3193c3a.css.map",
+    "main.befdbf28.js.map": "/static/js/main.befdbf28.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e52aa4e.css",
-    "static/js/main.1805a284.js"
+    "static/css/main.b3193c3a.css",
+    "static/js/main.befdbf28.js"
   ]
 }
